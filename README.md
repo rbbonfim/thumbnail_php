@@ -1,0 +1,1 @@
+Simple thumbnail generator using PHP
